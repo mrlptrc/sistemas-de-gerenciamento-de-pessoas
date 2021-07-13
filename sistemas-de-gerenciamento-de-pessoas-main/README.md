@@ -4,4 +4,4 @@ The project is an API REST with Spring Boot for register & people management of 
 ## Software, Language used:
 Java, Spring Boot
 
-## Made by: Murilo Patricio
+## Made by: @mrlptrc
